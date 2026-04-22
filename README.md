@@ -14,10 +14,13 @@ Experience building both systems-oriented and application-level projects, with a
 ---
 
 ## 📂 Projects
-- **Virtual Disk File System (C)** – Block-based storage with file metadata and file operations  
-- **OS Shell (C)** – Partial Linux-like shell with command execution and directory handling  
-- **Restaurant Ordering System (Python + MySQL)** – Menu-driven system with database storage and billing  
-- **Movie Theater Booking System (Python)** – Movie, seat selection, pricing, and ticket generation  
+- **Virtual Disk File System (C)** – Simulated file system with block-based storage, bitmap allocation, and file metadata management  
+- **Linux-like Shell (C)** – Partial Linux-like shell supporting directory navigation, file operations, and command execution using system calls  
+- **Airline Seat Reservation System (C)** – Seat booking system supporting multiple aircraft layouts with file-based storage by flight and date  
+- **Restaurant Ordering System (Python + MySQL)** – CLI-based ordering system with receipt generation and MySQL database integration to store orders 
+- **Movie Theater Booking System (Python)** – Movie and seat booking system with pricing logic, ticket generation, and file-based seat persistence  
+- **Bunny RPG Puzzle Combat (Java)** – Terminal-based RPG using OOP with combat logic, inventory system, and ASCII-based UI  
+
 
 ---
 
